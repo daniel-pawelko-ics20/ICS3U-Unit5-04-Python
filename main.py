@@ -21,10 +21,10 @@ def main():
 
     try:
         # input
-        height_inp = input("Height of cylinder (mm): ")
-        height_inp = int(height_inp)
         radius_inp = input("Radius of cylinder (mm): ")
         radius_inp = int(radius_inp)
+        height_inp = input("Height of cylinder (mm): ")
+        height_inp = int(height_inp)
 
         # output/calling function
         print(
